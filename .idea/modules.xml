@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dilli_bhandari_android_second_assignment.iml" filepath="$PROJECT_DIR$/Dilli_bhandari_android_second_assignment.iml" group="Dilli_bhandari_android_second_assignment" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Dilli_bhandari_android_second_assignment/app" />
+    </modules>
+  </component>
+</project>

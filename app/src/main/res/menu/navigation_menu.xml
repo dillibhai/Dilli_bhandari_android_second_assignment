@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/areofCircle"
+        android:title="Area of Circle"/>
+    <item android:id="@+id/palindrome"
+        android:title="palindrome"/>
+    <item android:id="@+id/swapno"
+        android:title="Swap Number"/>
+    <item android:id="@+id/automorphic"
+        android:title="Automorphic Number"/>
+
+</menu>
